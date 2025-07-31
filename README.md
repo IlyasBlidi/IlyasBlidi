@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A passionate software and data engineering student from Morocco</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 ###
 
